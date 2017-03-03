@@ -13,7 +13,7 @@
     },
     "dependencies": {
         "angular": "*",
-        "angular-bootstrap": "1.x"
+        "angular-bootstrap": "*"
     },
     "devDependencies": {}
 }
